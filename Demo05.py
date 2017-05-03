@@ -1,5 +1,5 @@
 from pygameWrapper import PYGAMEWRAPPER
-import time
+
 window = PYGAMEWRAPPER(width=1000,height=1000)
 
 x_start = 300
